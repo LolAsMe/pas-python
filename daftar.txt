@@ -1,5 +1,3 @@
 
- nama: mlinjo, harga: 500, jumlah: 40, total:20000
- nama: odol, harga: 5000, jumlah: 30, total:150000
- nama: sabun, harga: 4000, jumlah: 10, total:40000
- grand total: 210000
+ nama: hal, harga: 20000, jumlah: 20, total:400000
+ grand total: 400000
